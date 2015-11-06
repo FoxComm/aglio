@@ -35,7 +35,7 @@
     "markdown"
   ],
   "dependencies": {
-    "aglio-theme-olio": "^1.2.0",
+    "aglio-theme-olio": "git://github.com/FoxComm/aglio.git#olio-theme",
     "chokidar": "^1.0.1",
     "cli-color": "^1.0.0",
     "pretty-error": "^1.1.2",
